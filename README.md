@@ -1,1 +1,12 @@
-# index.html
+<DOCTYPE html>
+  <html>
+    <head>
+      
+      </head>
+      
+      <body>
+      
+      <h1>The Landing Page</h1>
+      
+      </body>
+      </html>
